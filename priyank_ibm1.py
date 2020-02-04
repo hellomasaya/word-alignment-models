@@ -72,4 +72,4 @@ for ((e_word, hin_word), value) in sorted(t.items(), key=itemgetter(1), reverse=
         break
     iterations += 1
 
-
+print(t[('तथा','and')])
